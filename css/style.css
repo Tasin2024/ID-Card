@@ -1,0 +1,49 @@
+.identity{
+    background: black;
+    color: yellow;
+    border-radius: 25px;
+    margin: 40px;
+    padding: 40px;
+    width: 250px;
+    box-shadow: 5px 5px 10px red;
+}
+.identity2{
+    background: black;
+    color: yellow;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px;
+    width: 350px;
+    box-shadow: 5px 5px 10px red;
+}
+.identity3{
+    background: black;
+    color: yellow;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px;
+    width: 350px;
+    box-shadow: 5px 5px 10px red;
+}
+.identity4{
+    background: black;
+    color: yellow;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px;
+    width: 350px;
+    box-shadow: 5px 5px 10px red;
+}
+.identity5{
+    background: black;
+    color: yellow;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px;
+    width: 350px;
+    box-shadow: 5px 5px 10px red;
+}
+.identity6{
+    height: 350px;
+    width: 350px;
+}
